@@ -5,5 +5,5 @@ I want to prototype Survival Horror Map Prototype.
 
 When you enter the room which you  discovered, appears in  map.
 
-You can look the codes
+You can look the gameplay
 https://hilamghost.itch.io/survival-horror-map-prototype
